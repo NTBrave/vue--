@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 149 149" style="enable-background:new 0 0 149 149;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#477278;}
+	.st1{fill:#6CB1C4;}
+	.st2{fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st3{font-family:'SimSun';}
+	.st4{font-size:32px;}
+	.st5{fill:#FFFFFF;}
+</style>
+<title>syfz_wen</title>
+<path class="st0" d="M15,0h119c8.3,0,15,6.7,15,15v119c0,8.3-6.7,15-15,15H15c-8.3,0-15-6.7-15-15V15C0,6.7,6.7,0,15,0z"/>
+<path class="st1" d="M15,0h119c8.3,0,15,6.7,15,15v84.6c0,8.3-6.7,15-15,15H15c-8.3,0-15-6.7-15-15V15C0,6.7,6.7,0,15,0z"/>
+<polygon class="st1" points="0,115.2 0,115.2 149,115.2 149,115.2 149,65.2 149,65.2 0,65.2 0,65.2 "/>
+<image style="overflow:visible;opacity:0.3;enable-background:new    ;" width="60" height="126" xlink:href="2F5FB644.png"  transform="matrix(0.9833 0 0 0.9833 90 10.39)">
+</image>
+<polygon class="st0" points="97.9,134.8 97.9,134.8 149,134.8 149,134.8 149,115.2 149,115.2 97.9,115.2 97.9,115.2 "/>
+<text transform="matrix(1 0 0 1 8.3639 142.2343)" class="st2 st3 st4">语音视频</text>
+<path class="st5" d="M117.3,46.5c0-1.7-1.3-3.1-3-3.2h-3V23h3c1.7,0.1,3.1-1.2,3.2-2.9c0.2-1.7-1-3.2-2.7-3.4h-14.1V23h6.3v20.3
+	H43.8c-5.2-0.1-9.3-4.8-9.2-10.3v-0.3c0.5-5.4,4.8-9.7,10-9.6h56.1v-6.5H44.5c-7.8-0.1-14.6,6-15.8,14.2c-0.6,4.4,0.5,8.9,3.1,12.5
+	H21.1c-1.7-0.1-3.1,1.2-3.2,2.9c-0.2,1.7,1,3.2,2.7,3.4H24V70h-3c-1.7-0.1-3.1,1.2-3.2,2.9c-0.2,1.7,1,3.2,2.7,3.4h11.1
+	c-2.6,3.6-3.7,8.1-3.1,12.5c1.2,8.4,8,14.3,15.8,14.2h69.8c1.7,0.1,3.1-1.2,3.2-2.9c0.2-1.7-1-3.2-2.7-3.4h-3.5V76.5h3
+	c1.7,0.1,3.1-1.2,3.2-2.9c0.2-1.7-1-3.2-2.7-3.4h-11.1c4.3-6.1,4.3-14.2,0-20.3h10.7C116,49.7,117.4,48.2,117.3,46.5L117.3,46.5z
+	 M28.4,70V49.8h63.1c5.2,0,9.4,4.5,9.4,10.1S96.7,70,91.5,70H28.4z M106.9,76.5v20.3H44c-5.2,0.1-9.5-4.4-9.5-10s4.1-10.2,9.3-10.2
+	l0,0C43.7,76.5,106.9,76.5,106.9,76.5L106.9,76.5z"/>
+</svg>

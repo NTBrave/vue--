@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 270.8 127.9" style="enable-background:new 0 0 270.8 127.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#9F7D26;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:none;}
+	.st3{font-family:'SimSun';}
+	.st4{font-size:44px;}
+	.st5{stroke:#000000;stroke-miterlimit:10;}
+</style>
+<title>she_h4</title>
+<g>
+	<path class="st0" d="M0,112.9c0,8.3,6.7,15,15,15h105.3c8.3,0,15-6.7,15-15V15c0-8.3-6.7-15-15-15H15C6.7,0,0,6.7,0,15V112.9z"/>
+</g>
+<path class="st1" d="M90.6,75.9c-5.7,0-11,3.1-13.8,8.1L57.3,73.6c1.4-2.4,2.2-5.2,2.2-8c0-2-0.4-4-1.2-5.9L79.8,46
+	c5.3,6.9,15.2,8.1,22.1,2.8s8.1-15.2,2.8-22.1s-15.2-8.1-22.1-2.8c-3.9,3-6.1,7.6-6.1,12.5c0,2,0.4,3.9,1.1,5.7L56.1,55.8
+	C50.7,49,40.8,47.9,34,53.3s-7.9,15.3-2.5,22.1s15.3,7.9,22.1,2.5c0.3-0.2,0.6-0.5,0.9-0.8l20.7,11.1c-0.2,1.1-0.4,2.3-0.4,3.4
+	c0,8.7,7,15.8,15.7,15.8s15.8-7,15.8-15.7C106.3,83,99.3,75.9,90.6,75.9z M92.3,25.5c6,0,10.8,4.8,10.8,10.8s-4.8,10.8-10.8,10.8
+	s-10.8-4.8-10.8-10.8l0,0C81.5,30.4,86.3,25.5,92.3,25.5C92.2,25.5,92.3,25.5,92.3,25.5z M43.8,76.4c-6,0-10.8-4.8-10.8-10.8
+	s4.8-10.8,10.8-10.8s10.8,4.8,10.8,10.8C54.6,71.5,49.8,76.4,43.8,76.4C43.9,76.4,43.8,76.4,43.8,76.4z M90.6,102.5
+	c-6,0-10.8-4.8-10.8-10.8s4.8-10.8,10.8-10.8s10.8,4.8,10.8,10.8C101.4,97.6,96.5,102.5,90.6,102.5z"/>
+<rect x="158.7" y="12.1" class="st2" width="88.7" height="106.7"/>
+<image style="overflow:visible;enable-background:new    ;" width="100" height="100" xlink:href="list_bg2.png"  transform="matrix(1.35 0 0 1.27 135.3 0.45)">
+</image>
+<text transform="matrix(1 0 0 1 159.03 45.38)" class="st1 st3 st4">推荐</text>
+<text transform="matrix(1 0 0 1 159.03 45.38)" class="st5 st3 st4">推荐</text>
+<text transform="matrix(1 0 0 1 159.03 98.18)" class="st1 st3 st4">分享</text>
+<text transform="matrix(1 0 0 1 159.03 98.18)" class="st5 st3 st4">分享</text>
+</svg>
