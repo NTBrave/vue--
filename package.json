@@ -13,7 +13,7 @@
     "core-js": "^2.6.5",
     "jquery": "^3.4.1",
     "mint-ui": "^2.2.13",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "popper.js": "^1.15.0",
     "slick-carousel": "^1.8.1",
     "standard": "^13.0.2",
